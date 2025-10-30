@@ -28,7 +28,7 @@ function App() {
           aperiam!
         </p>
       </div>
-      <div className="flex gap-15">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
         <img
           className="w-[570px] h-[320px] rounded-xl"
           src="./src/assets/imag/hero-bcg.1486d4061cd0252b9a21.jpeg"
